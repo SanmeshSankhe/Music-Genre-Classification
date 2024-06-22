@@ -34,7 +34,7 @@ This data set consists of 10 music genres with each genre containing about 100 a
 
 
 
-## Screenshots
+## MEL Spectrogram
 
 ![Mel Spectrogram](https://github.com/SanmeshSankhe/Music-Genre-Classification/blob/main/Mel%20Spectrogram.png)
 
